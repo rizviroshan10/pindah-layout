@@ -15,5 +15,17 @@
 
     </Button>
 
+    <EditText
+        android:id="@+id/et_nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_pindah"
+        android:layout_marginBottom="6dp"
+        android:hint="Masukan Nama Anda">
+
+
+    </EditText>
+
+
 
 </RelativeLayout>
